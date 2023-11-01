@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.title-row p{
+    font-size: 14px;
+}
+.underline{
+    height: 4px;
+}
+#question-sec{
+    background-color: #f7f8fa;
+}
+.accordion-button:hover{
+    color: #f8c008;
+}
